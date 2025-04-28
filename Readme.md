@@ -35,6 +35,9 @@ dsc-project1/
 └── .gitignore
 ```
 
+## Interactive Dashboard
+> A simple Tableau dashboard highlighting accident rates by manufacturer and injury severity is available [here](#) (link placeholder).
+
 ## About Me
 My name is Mohamed Abdi Sheikh, and I’m passionate about using data to solve real-world business problems.  
 Feel free to connect with me on bakeriglass20@gmail.com
