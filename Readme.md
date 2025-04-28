@@ -1,23 +1,23 @@
 # A Data Analysis of Aircraft Incidents for Business Strategy Minimizing Risk
 
 ## Overview
-This project analyzes historical aviation accident data from the National Transportation Safety Board (NTSB) to help guide safe aircraft purchasing decisions as our company expands into the aviation industry. By examining trends related to aircraft manufacturers, accident severity, and flight phases, the project provides actionable recommendations to minimize operational risks.
+This project analyzes historical aviation accident data from the National Transportation Safety Board (NTSB) to help guide safe aircraft purchasing decisions as our company expands into the aviation industry. By examining trends related to aircraft manufacturers, accident severity, and number of engines in the aircraft, the project provides actionable recommendations to minimize operational risks.
 
 ## Business Understanding
 The business is looking to diversify by purchasing and operating aircraft for commercial and private use. However, aviation comes with significant safety risks. My task was to determine which aircraft models and manufacturers present the lowest risk, so that leadership can make informed, data-driven decisions when entering this market.
 
 ## Data Understanding and Analysis
-The dataset contains records of civil aviation accidents and incidents from 1962 to 2023. Key variables include aircraft manufacturer, model, phase of flight, and injury severity. After cleaning the data by handling missing values and removing irrelevant columns, I performed exploratory data analysis (EDA) using Python and visualized trends through bar charts and correlation matrices. The source of the data is from the National Transportation Safety Board (NTSB).
+The dataset contains records of civil aviation accidents and incidents from 1962 to 2023. Key variables include aircraft manufacturer, model, number of engines, and injury severity. After cleaning the data by handling missing values and removing irrelevant columns, I performed exploratory data analysis (EDA) using Python and visualized trends through bar charts and correlation matrices. The source of the data is from the National Transportation Safety Board (NTSB).
 
 ### Main Visualizations:
 - **Top 10 Aircraft Manufacturers by Accident Count**
-- **Accidents by Phase of Flight**
+- **Number of Engines in the Aircraft**
 - **Injury Severity Distribution**
 
 ## Recommendations
 Based on the analysis, I propose the following:
 1. **Prioritize aircraft from manufacturers with lower accident rates.**
-2. **Focus on aircraft models with stronger safety records during critical phases like takeoff and landing.**
+2. **Favor aircraft with fewer engines when possible.**
 3. **Avoid aircraft types associated with higher injury or fatality rates.**
 
 ## Conclusion
