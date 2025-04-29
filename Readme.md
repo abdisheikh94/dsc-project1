@@ -27,11 +27,13 @@ This analysis uncovered valuable patterns in aviation accidents that can help th
 ```
 dsc-project1/
 ├── data/
+├── images/
 ├── README.md
 ├── dsc_phase1_project.ipynb
 ├── dsc_phase1_project.pdf
 ├── presentation.pdf
-├── interactive_dashboard
+├── index.ipynb
+├── InteractiveDashboard.pdf
 └── .gitignore
 ```
 
