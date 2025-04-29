@@ -30,8 +30,7 @@ dsc-project1/
 ├── images/
 ├── README.md
 ├── dsc_phase1_project.ipynb
-├── dsc_phase1_project.pdf
-├── presentation.pdf
+├── Phase1PPT.pdf
 ├── index.ipynb
 ├── InteractiveDashboard.pdf
 └── .gitignore
