@@ -17,7 +17,7 @@ The dataset contains records of civil aviation accidents and incidents from 1962
 ## Recommendations
 Based on the analysis, I propose the following:
 1. **Prioritize aircraft from manufacturers with lower accident rates.**
-2. **Favor aircraft with fewer engines when possible.**
+2. **Favor aircraft with more engines when possible.**
 3. **Avoid aircraft types associated with higher injury or fatality rates.**
 
 ## Conclusion
