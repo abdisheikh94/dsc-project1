@@ -40,6 +40,26 @@ dsc-project1/
 ## Interactive Dashboard
 > A simple Tableau dashboard highlighting accident rates by manufacturer and injury severity is available [[here](https://public.tableau.com/app/profile/mohamed.abdi1905/viz/AviationDashboard_17459494580270/Dashboard1?publish=yes)]
 
+## References
+Data Source:
+National Transportation Safety Board (NTSB) Aviation Accident Database
+https://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx
+
+Guidance: Flatiron School Phase 1 Project Guidelines
+
+Tools & Technologies:
+
+    Python (pandas, seaborn, matplotlib)
+
+    Tableau Public
+
+    Jupyter Notebook
+
+    GitHub
+
+Tableau Community Gallery
+https://public.tableau.com/en-us/gallery/
+
 ## About Me
 My name is Mohamed Abdi Sheikh, and I’m passionate about using data to solve real-world business problems.  
 Feel free to connect with me on bakeriglass20@gmail.com
