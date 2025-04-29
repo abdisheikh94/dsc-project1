@@ -36,7 +36,7 @@ dsc-project1/
 ```
 
 ## Interactive Dashboard
-> A simple Tableau dashboard highlighting accident rates by manufacturer and injury severity is available [[here](https://public.tableau.com/app/profile/mohamed.abdi1905/viz/AviationDashboard_17459494580270/Dashboard1?publish=yes)](#).
+> A simple Tableau dashboard highlighting accident rates by manufacturer and injury severity is available [[here](https://public.tableau.com/app/profile/mohamed.abdi1905/viz/AviationDashboard_17459494580270/Dashboard1?publish=yes)]
 
 ## About Me
 My name is Mohamed Abdi Sheikh, and I’m passionate about using data to solve real-world business problems.  
