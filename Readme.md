@@ -42,8 +42,8 @@ dsc-project1/
 
 ## References
 Data Source:
-National Transportation Safety Board (NTSB) Aviation Accident Database
-https://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx
+National Transportation Safety Board (NTSB) Aviation Accident Database on Kaggle
+https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
 
 Guidance: Flatiron School Phase 1 Project Guidelines
 
